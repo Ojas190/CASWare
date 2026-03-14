@@ -5,7 +5,7 @@ CAS is an System made to automate the Attendance system using Campus Camera's an
 
 This Project has been successfully developed using some help of AI tools only in debugging and exception handling. As currently, I still lack most advanced Knowledge and proper experience in the Industry, so What I may represent is an 50% or 60% of what I truly envisioned in educational Industry, where everyones true potential can be seen.
 
-As of privacy, I understand that may be an Issue, but since this is an Project I can't publish nor Commit in Github for anyone can take the source code and the dataset used is of our own Personal Data, made with the approval of my Zeal College and most of it is of my batchmates, So I cant upload it in here. 
+As of privacy, I understand that may be an Issue, but since this is an Project I can't publish nor Commit in Github for anyone can take the source code and the dataset. The Dataset that is used is of our own Personal Data, made from scratch and with the approval of My friends in Zeal College and most of it is of my batchmates, So I cant upload it in here. (All the data It has consists of College Students ranging from Facilties, First/Second/Third Year Students) 
 
 
 
