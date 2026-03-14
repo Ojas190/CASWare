@@ -29,6 +29,7 @@
 6. API Endpoints: POST /predict → Upload image and get prediction
 
 # Why Government And College?
+
 1. It helps in actually justifying the Students attendiing College regularly.
 2. Validates the need of Scholarship given to those with actual Evidence rather than fragmented physical documents.
 3. Aides Parents and Faculty coordination for seeing the Student is Attending Regularly as this Avoids Proxy.
@@ -36,9 +37,11 @@
 5. CAS works as an Distributed system which helps in telling the students(and their Parents) about there progress, Faculty on keeping records of Students Digital transparent (in CASWare) and Filtering Bright and talented ones and aiding them for brighter future.
 
 # Project Status:
+
 - Currently Developed. 
 - Deployment with the help of Campus CCTV's will be done as per requirements.
 
 # Future Improvements
+
 - Deploy on cloud (Render / AWS /Azure) and Works live in Sever.
 - Needs to be integrated with Hardware
